@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HxgKCJTX3HEN4EXUz0qArCwsNxtAqCeu4cKOGcO7oMnt3Aw4YZnE0gOXjxtCMFiyUkPlLfsUxOdRFXPJf0lFDQ==",
+  "success": true,
+  "projectFilePath": "/home/santiago/Documents/C#Projects/calculateStudentsGrades/CalculateStudentGrades/CalculateStudentGrades.csproj",
+  "expectedPackageFiles": [
+    "/home/santiago/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.7/microsoft.aspnetcore.app.ref.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
