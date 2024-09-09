@@ -1,0 +1,15 @@
+/home/santiago/Documents/C#Projects/calculateStudentsGrades/CalculateStudentGrades/bin/Debug/net8.0/CalculateStudentGrades
+/home/santiago/Documents/C#Projects/calculateStudentsGrades/CalculateStudentGrades/bin/Debug/net8.0/CalculateStudentGrades.deps.json
+/home/santiago/Documents/C#Projects/calculateStudentsGrades/CalculateStudentGrades/bin/Debug/net8.0/CalculateStudentGrades.runtimeconfig.json
+/home/santiago/Documents/C#Projects/calculateStudentsGrades/CalculateStudentGrades/bin/Debug/net8.0/CalculateStudentGrades.dll
+/home/santiago/Documents/C#Projects/calculateStudentsGrades/CalculateStudentGrades/bin/Debug/net8.0/CalculateStudentGrades.pdb
+/home/santiago/Documents/C#Projects/calculateStudentsGrades/CalculateStudentGrades/obj/Debug/net8.0/CalculateStudentGrades.GeneratedMSBuildEditorConfig.editorconfig
+/home/santiago/Documents/C#Projects/calculateStudentsGrades/CalculateStudentGrades/obj/Debug/net8.0/CalculateStudentGrades.AssemblyInfoInputs.cache
+/home/santiago/Documents/C#Projects/calculateStudentsGrades/CalculateStudentGrades/obj/Debug/net8.0/CalculateStudentGrades.AssemblyInfo.cs
+/home/santiago/Documents/C#Projects/calculateStudentsGrades/CalculateStudentGrades/obj/Debug/net8.0/CalculateStudentGrades.csproj.CoreCompileInputs.cache
+/home/santiago/Documents/C#Projects/calculateStudentsGrades/CalculateStudentGrades/obj/Debug/net8.0/CalculateStudentGrades.sourcelink.json
+/home/santiago/Documents/C#Projects/calculateStudentsGrades/CalculateStudentGrades/obj/Debug/net8.0/CalculateStudentGrades.dll
+/home/santiago/Documents/C#Projects/calculateStudentsGrades/CalculateStudentGrades/obj/Debug/net8.0/refint/CalculateStudentGrades.dll
+/home/santiago/Documents/C#Projects/calculateStudentsGrades/CalculateStudentGrades/obj/Debug/net8.0/CalculateStudentGrades.pdb
+/home/santiago/Documents/C#Projects/calculateStudentsGrades/CalculateStudentGrades/obj/Debug/net8.0/CalculateStudentGrades.genruntimeconfig.cache
+/home/santiago/Documents/C#Projects/calculateStudentsGrades/CalculateStudentGrades/obj/Debug/net8.0/ref/CalculateStudentGrades.dll
